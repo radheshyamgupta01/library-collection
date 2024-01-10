@@ -1,2 +1,12 @@
 1-https://react-slick.neostack.com/docs/example/as-nav-for
 2-https://animate.style/
+3-https://madgicx.com/facebook-emojis
+4-https://highlightjs.org/examples
+5-https://drawcall.github.io/Proton/#examples
+6-https://www.cssscript.com/demo/interactive-parallax-tilt-effect-vanilla-javascript-vanilla-tilt-js/
+7-https://www.cssscript.com/demo/3d-multi-layer-parallax-hover-effect/
+7-https://www.cssscript.com/demo/background-parallax-ukiyo/
+8-https://www.cssscript.com/demo/parallax-tilt-hover-effect-card/
+9-https://www.cssscript.com/demo/parallax-motion-lux/
+10-https://howlerjs.com/  for sound library
+11- video.js a video library
